@@ -1,8 +1,8 @@
 ## <img src="./logo.jpg" alt="coScene Logo" width="250"/>
 
-This is the source code for docs.coscene.cn. The website is using docusaurus to generate the static site.
+Source code of [https://docs.coscene.cn/](https://docs.coscene.cn/). Generated with [docusaurus](https://github.com/facebook/docusaurus).
 
-## Development
+## Prerequisite
 
 - [Node.js >= v18](https://nodejs.org/)
 - [pnpm](https://pnpm.io/installation)
